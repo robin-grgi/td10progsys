@@ -1,4 +1,4 @@
-fichier plus lisible via le lien suivant : https://github.com/robin-grgi/td10progsys/compteRendu.md
+fichier plus lisible via le lien suivant : https://github.com/robin-grgi/td10progsys/blob/master/compteRendu.md
 # Programmation système : TP10 : Mise en oeuvre de JNI sur un cas concret
 
 ## 1 - Récupérer l'identifiant de processus d'une JVM (processus ID)
